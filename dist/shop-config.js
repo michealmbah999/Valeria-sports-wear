@@ -1,0 +1,1 @@
+const SHOP_CONFIG={"contactEmail": "Mbahtochukwu28@gmail.com", "wechat": "13057949231", "whatsapp": "", "checkoutUrl": "", "paymentMethods": ["Visa / Mastercard", "PayPal", "Alipay", "WeChat Pay", "Bitcoin (BTC)", "Other crypto \u2014 confirm coin & network", "Gift card \u2014 confirm issuer"]};

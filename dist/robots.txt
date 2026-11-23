@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pitchside-sports-valeria.realvaleria999.chatgpt.site/sitemap.xml
